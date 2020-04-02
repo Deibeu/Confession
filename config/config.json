@@ -1,0 +1,15 @@
+{
+    "token": "Njk1MDgyMjg3MTY2OTE0NjYx.XoU_3g.gh7EU8DoJexJNbzxQ6sUjFmacNo",
+    "owners": [
+        250124051261947905
+    ],
+    "database": {
+        "user": "deibeu" ,
+        "password": "03182526dave",
+        "database": "confession",
+        "host": "127.0.0.1"
+    },
+    "presence_text": "",
+    "default_prefix": "x.",
+    "guild_invite": ""
+}
