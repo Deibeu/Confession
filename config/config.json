@@ -1,11 +1,11 @@
 {
-    "token": "Njk1MDgyMjg3MTY2OTE0NjYx.XoU_3g.gh7EU8DoJexJNbzxQ6sUjFmacNo",
+    "token": "Njk1MDgyMjg3MTY2OTE0NjYx.XoVBsg.OZkCniTudrHpzkJb3zNItalMsP0",
     "owners": [
         250124051261947905
     ],
     "database": {
         "user": "deibeu" ,
-        "password": "03182526dave",
+        "password": "",
         "database": "confession",
         "host": "127.0.0.1"
     },
